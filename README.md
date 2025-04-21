@@ -29,7 +29,7 @@ I'm currently expanding my knowledge to become a well-rounded full-stack develop
 
 ## Let's Connect!
 
-- 📫 Reach me at: [BasheerShalabi@gmail.com](mailto:BasheerShalabi@gmail.com)
+- 📫 Reach me at: [ShalabiBasheer@gmail.com](mailto:ShalabiBasheer@gmail.com)
 - 🌍 Find me on:  [LinkedIn](www.linkedin.com/in/basheer-shalabi-99379922b)
 
 If you'd like to collaborate on a project or discuss tech, feel free to reach out! 🚀
