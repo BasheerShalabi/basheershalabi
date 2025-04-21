@@ -21,7 +21,6 @@ I'm currently expanding my knowledge to become a well-rounded full-stack develop
 - Advanced backend development with Express
 - Database optimization with SQL & MongoDB
 - Learn Python and its usage in full stack development
-- 
 
 ## GitHub Stats
 
