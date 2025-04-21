@@ -25,7 +25,7 @@ I'm currently expanding my knowledge to become a well-rounded full-stack develop
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basheershalabi&show_icons=true&theme=radical)
 
 ## Let's Connect!
 
