@@ -1,35 +1,58 @@
-# Hi, I'm Basheer 👋
+# 👋 Hi, I'm Basheer Shalabi
+Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-I'm an aspiring full-stack developer currently learning at **Axsos Academy**. Passionate about coding, problem-solving, and building innovative applications, I strive to enhance my skills and contribute to impactful projects.
+📧 Reach me at: ShalabiBasheer@gmail.com
 
-## Tech Stack
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basheer-shalabi-99379922b/)
 
-I have experience working with:
-- **Frontend:** React.js, Flutter ,HTML , CSS
-- **Backend:** Node.js, Express
-- **Databases:** SQL, MongoDB
+---
 
-## Projects
+## 🧠 About Me
 
-Here are some of the projects I've worked on:
+I'm a dedicated full-stack developer with a drive to create practical, user-focused applications. I specialize in frontend and backend development, with a knack for integrating AI and research-based features into my work.
 
-- 🚀 **[Karnoosh](https://github.com/MohamadAbudaya97/movie-aplication)** - a mobile application for watching movies and series , its built with flutter and dart.
+I enjoy tackling challenging problems, continuously learning, and collaborating on software solutions.
 
-## Currently Learning
+---
 
-I'm currently expanding my knowledge to become a well-rounded full-stack developer. My focus includes:
-- Advanced backend development with Express
-- Database optimization with SQL & MongoDB
-- Learn Python and its usage in full stack development
+## 🛠️ Technologies & Tools
 
-## GitHub Stats
+### languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basheershalabi&show_icons=true&theme=radical)
 
-## Let's Connect!
+---
 
-- 📫 Reach me at: [ShalabiBasheer@gmail.com](mailto:ShalabiBasheer@gmail.com)
-- 🌍 Find me on:  [LinkedIn](www.linkedin.com/in/basheer-shalabi-99379922b)
+## 🌟 Featured Projects
 
-If you'd like to collaborate on a project or discuss tech, feel free to reach out! 🚀
+### 🎫 [TicketFlow](https://github.com/DevAbdallahSi/Python-Project) – Full Stack Helpdesk System
+A Django + Bootstrap-based ticketing system with smart AI features and real-time UI enhancements.
+- Admin dashboards with Chart.js analytics
+- Role-based navigation and AJAX-powered search
+- Self-hosted AI (PHI3) to classify tickets by severity and department
+
+### 📱 [Karnoosh App](https://github.com/mohamad4420/movie-aplication) – Flutter Mobile App
+A sleek frontend app for streaming content (movies, shows, and more).
+- Dynamic content loading via ListViews
+- Embedded video player with controls for playback speed, quality, and size
+
+---
+
+## 📊 GitHub Stats
+
+![Basheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BasheerShalabi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BasheerShalabi&layout=compact&theme=tokyonight)
+
 
