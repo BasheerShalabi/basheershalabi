@@ -7,7 +7,7 @@ Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a dedicated full-stack developer with a drive to create practical, user-focused applications. I specialize in frontend and backend development, with a knack for integrating AI and research-based features into my work.
 
@@ -15,7 +15,7 @@ I enjoy tackling challenging problems, continuously learning, and collaborating 
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,22 +34,22 @@ I enjoy tackling challenging problems, continuously learning, and collaborating 
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🎫 [TicketFlow](https://github.com/DevAbdallahSi/Python-Project) – Full Stack Helpdesk System
+### [TicketFlow](https://github.com/DevAbdallahSi/Python-Project) – Full Stack Helpdesk System
 A Django + Bootstrap-based ticketing system with smart AI features and real-time UI enhancements.
 - Admin dashboards with Chart.js analytics
 - Role-based navigation and AJAX-powered search
 - Self-hosted AI (PHI3) to classify tickets by severity and department
 
-### 📱 [Karnoosh App](https://github.com/mohamad4420/movie-aplication) – Flutter Mobile App
+### [Karnoosh App](https://github.com/mohamad4420/movie-aplication) – Flutter Mobile App
 A sleek frontend app for streaming content (movies, shows, and more).
 - Dynamic content loading via ListViews
 - Embedded video player with controls for playback speed, quality, and size
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Basheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BasheerShalabi&show_icons=true&theme=tokyonight)
 
