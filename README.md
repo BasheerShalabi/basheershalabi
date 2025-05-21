@@ -13,6 +13,8 @@ I'm a dedicated full-stack developer with a drive to create practical, user-focu
 
 I enjoy tackling challenging problems, continuously learning, and collaborating on software solutions.
 
+I also have a growing interest in game development and enjoy exploring its creative and technical aspects.
+
 ---
 
 ## Technologies & Tools
