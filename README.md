@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Basheer Shalabi
 Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-📧 Reach me at: ShalabiBasheer@gmail.com
+Reach me at: ShalabiBasheer@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basheer-shalabi-99379922b/)
+My LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basheer-shalabi-99379922b/)
 
 ---
 
@@ -32,22 +32,26 @@ I also have a growing interest in game development and enjoy exploring its creat
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ---
 
 ## Featured Projects
 
-### [TicketFlow](https://github.com/DevAbdallahSi/Python-Project) – Full Stack Helpdesk System
-A Django + Bootstrap-based ticketing system with smart AI features and real-time UI enhancements.
+### [TicketFlow](https://github.com/DevAbdallahSi/Python-Project) – Ticketing Helpdesk System
+TicketFlow is a modern, web-based helpdesk ticketing system designed to streamline issue tracking, support requests, and IT service management. Built with Django and Bootstrap, it provides an intuitive UI and powerful backend for managing user-submitted tickets efficiently
 - Admin dashboards with Chart.js analytics
 - Role-based navigation and AJAX-powered search
 - Self-hosted AI (PHI3) to classify tickets by severity and department
 
-### [Karnoosh App](https://github.com/mohamad4420/movie-aplication) – Flutter Mobile App
-A sleek frontend app for streaming content (movies, shows, and more).
-- Dynamic content loading via ListViews
-- Embedded video player with controls for playback speed, quality, and size
+### [Sakanat](https://github.com/BasheerShalabi/sakanat) – Accommodation Finding website
+Sakanat is a smart accommodation-finding website designed especially for students and new city residents who are looking for a convenient way to find a place to live. The website features listings submitted by landlords, each with detailed information (e.g., pricing, amenities, location). Users can view and filter listings manually or use an integrated AI-based assistant that interprets natural language prompts to provide personalized search results based on the user’s needs
+- City-based accommodation listings submitted by verified landlords
+- Detailed property pages with amenities, pricing, and contact options
+- AI-powered search assistant that filters results from plain-text prompts
+- Responsive and user-friendly interface
+- Manual filtering by location, price, room count, and features
 
 ---
 
