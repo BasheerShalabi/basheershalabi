@@ -53,6 +53,18 @@ Sakanat is a smart accommodation-finding website designed especially for student
 - Responsive and user-friendly interface
 - Manual filtering by location, price, room count, and features
 
+
+### [InterviewAI](https://github.com/BasheerShalabi/InterviewAI) –  Mock Interview Simulation
+InterviewAI is web application that simulates mock interviews using AI to assist job seekers in improving their interview skills and CV presentation. The 
+platform features AI-driven CV analysis, dynamic interview sessions, and human coach feedback mechanisms, with full administrative control for 
+platform management.
+- Designed and implemented a CV analysis system where AI rates and provides feedback based on user-uploaded resumes.
+- Developed a real-time mock interview flow, where AI generates personalized interview questions tailored to the candidate's CV.
+- Created a results dashboard that summarizes the interview performance, including strengths, weaknesses, and improvement suggestions.
+- Integrated a Coach system allowing experienced professionals to review user interviews and provide manual feedback.
+- Utilized React (frontend) and Express.js (backend) with RESTful APIs for seamless client-server interactions.
+- Ensured role-based access control (RBAC) for users, coaches, and admins.
+
 ---
 
 ## GitHub Stats
