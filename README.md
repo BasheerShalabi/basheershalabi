@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Basheer Shalabi
 Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast
-
-Reach me at: ShalabiBasheer@gmail.com
-
-My LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basheer-shalabi-99379922b/)
-
 ---
 
 ## About Me
@@ -40,30 +35,34 @@ I also have a growing interest in game development and enjoy exploring its creat
 ## Featured Projects
 
 ### [TicketFlow](https://github.com/DevAbdallahSi/Python-Project) – Ticketing Helpdesk System
-TicketFlow is a modern, web-based helpdesk ticketing system designed to streamline issue tracking, support requests, and IT service management. Built with Django and Bootstrap, it provides an intuitive UI and powerful backend for managing user-submitted tickets efficiently
-- Admin dashboards with Chart.js analytics
-- Role-based navigation and AJAX-powered search
-- Self-hosted AI (PHI3) to classify tickets by severity and department
+  TicketFlow is a modern, web-based helpdesk ticketing system designed to streamline issue tracking, support requests, and IT service management. Built with Django and Bootstrap, it provides an intuitive UI and    powerful backend for managing user-submitted tickets efficiently
 
 ### [Sakanat](https://github.com/BasheerShalabi/sakanat) – Accommodation Finding website
-Sakanat is a smart accommodation-finding website designed especially for students and new city residents who are looking for a convenient way to find a place to live. The website features listings submitted by landlords, each with detailed information (e.g., pricing, amenities, location). Users can view and filter listings manually or use an integrated AI-based assistant that interprets natural language prompts to provide personalized search results based on the user’s needs
-- City-based accommodation listings submitted by verified landlords
-- Detailed property pages with amenities, pricing, and contact options
-- AI-powered search assistant that filters results from plain-text prompts
-- Responsive and user-friendly interface
-- Manual filtering by location, price, room count, and features
+  Sakanat is a smart accommodation-finding website designed especially for students and new city residents who are looking for a convenient way to find a place to live. The website features listings submitted by   landlords, each with detailed information (e.g., pricing, amenities, location). Users can view and filter listings manually or use an integrated AI-based assistant that interprets natural language prompts to     provide personalized search results based on the user’s needs
 
 
 ### [InterviewAI](https://github.com/BasheerShalabi/InterviewAI) –  Mock Interview Simulation
-InterviewAI is web application that simulates mock interviews using AI to assist job seekers in improving their interview skills and CV presentation. The 
-platform features AI-driven CV analysis, dynamic interview sessions, and human coach feedback mechanisms, with full administrative control for 
-platform management.
-- Designed and implemented a CV analysis system where AI rates and provides feedback based on user-uploaded resumes.
-- Developed a real-time mock interview flow, where AI generates personalized interview questions tailored to the candidate's CV.
-- Created a results dashboard that summarizes the interview performance, including strengths, weaknesses, and improvement suggestions.
-- Integrated a Coach system allowing experienced professionals to review user interviews and provide manual feedback.
-- Utilized React (frontend) and Express.js (backend) with RESTful APIs for seamless client-server interactions.
-- Ensured role-based access control (RBAC) for users, coaches, and admins.
+  InterviewAI is web application that simulates mock interviews using AI to assist job seekers in improving their interview skills and CV presentation. The 
+  platform features AI-driven CV analysis, dynamic interview sessions, and human coach feedback mechanisms, with full administrative control for 
+  platform management.
+
+---
+
+## Collaboration & Open Source
+
+I'm always excited to collaborate with fellow developers, designers, and creatives! Whether it's contributing to open-source projects, building innovative tools, or experimenting with new technologies — I'm open to opportunities that foster learning and teamwork.
+
+### What I'm Looking For
+- **Open-source contributions** – especially in AI integration, full-stack apps, or developer tools  
+- **Hackathons & coding events** – team up and build something impactful  
+- **Project partnerships** – passionate about working on tools that solve real-world problems  
+- **Mentorship exchanges** – share knowledge and grow together  
+
+### Let's Connect
+If you have an idea, project, or open-source repo that needs contributors, feel free to reach out — I’d love to hear about it!
+
+ **Email:** ShalabiBasheer@gmail.com  
+ **LinkedIn:** [Connect with me](https://www.linkedin.com/in/basheer-shalabi-99379922b/)
 
 ---
 
