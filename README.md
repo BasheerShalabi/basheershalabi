@@ -4,11 +4,11 @@ Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 ## About Me
 
-I'm a dedicated full-stack developer with a drive to create practical, user-focused applications. I specialize in frontend and backend development, with a knack for integrating AI and research-based features into my work.
+Full-stack developer with a passion for building impactful, user-focused applications. I specialize in both frontend and backend development, and I enjoy bridging the gap between clean UI design and efficient server-side logic.
 
-I enjoy tackling challenging problems, continuously learning, and collaborating on software solutions.
+What drives me is solving real-world problems through code — whether that’s developing AI-powered tools or building full-featured platforms. I’m always learning, always iterating, and always striving to make my work more meaningful.
 
-I also have a growing interest in game development and enjoy exploring its creative and technical aspects.
+I'm especially drawn to projects that blend creativity and logic — and I’m always open to collaboration, feedback, and new challenges.
 
 ---
 
