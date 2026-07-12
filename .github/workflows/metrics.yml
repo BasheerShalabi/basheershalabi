@@ -25,11 +25,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_stars: yes
-          plugin_followup: yes
-          plugin_topics: yes
           plugin_repositories: yes
           plugin_contributors: yes
           filename: github-metrics.svg
