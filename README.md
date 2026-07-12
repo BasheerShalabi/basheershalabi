@@ -64,12 +64,5 @@ If you have an idea, project, or open-source repo that needs contributors, feel 
  **Email:** ShalabiBasheer@gmail.com  
  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/basheer-shalabi-99379922b/)
 
----
-
-## GitHub Stats
-
-![Basheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BasheerShalabi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BasheerShalabi&layout=compact&theme=tokyonight)
 
 
