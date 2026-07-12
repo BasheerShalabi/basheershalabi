@@ -65,4 +65,6 @@ If you have an idea, project, or open-source repo that needs contributors, feel 
  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/basheer-shalabi-99379922b/)
 
 
-
+<p align="center">
+  <img src="./github-metrics.svg" width="100%">
+</p>
